@@ -1,4 +1,4 @@
-module exbee
+module github.com/incodinggo/exbee
 
 go 1.18
 
